@@ -1,6 +1,6 @@
-# Analytics Advertising
+# Node.js Authentication
 
-# Kulani's Project for Analytics Advertising ©
+# Boilerplate
 
 ### Setup
 
